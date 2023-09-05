@@ -1,0 +1,14 @@
+beautifulsoup4
+certifi
+charset-normalizer
+deepl
+idna
+pip
+requests
+setuptools
+soupsieve
+sqlmodel
+pydantic
+urllib3
+wheel
+python-dotenv
